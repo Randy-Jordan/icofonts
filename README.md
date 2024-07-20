@@ -19,7 +19,7 @@ Self hosted font icons. [Initial icons by IcoMoon](https://icomoon.io/app/#/sele
 - [ ] Chess Pieces / TODO Icon List
 
 ## Usage
-Just copy and paste into your projects, or host with server.
+Just copy and paste into your projects, or host with server by cloning the project as your var/www/folder.<br>
 
 ## Credits / Resources
 [IcoMoon - Initial icons and generator](https://icomoon.io/app/#/select)
